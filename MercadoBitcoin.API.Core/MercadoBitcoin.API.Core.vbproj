@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>MercadoBitcoin.API</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <OutputType>Library</OutputType>
+    <StartupObject></StartupObject>
+    <ApplicationIcon>MercadoBitcoin.ico</ApplicationIcon>
+    <Authors>Rômulo Meirelles - © 2018 - 2022</Authors>
+    <Company>Mercado Bitcoin Serviços Digitais LTDA – CNPJ 18.213.434/0001-35</Company>
+    <Description>(API .V4) MercadoBitcoin Core com essa API você faz consultas, balanço, cotação, saques, pagamentos, trades, transações, abrir ordens, fechar ordens, compra a mercado, vender a limite e outras mais na plataforma do MercadoBitcoin Confira!</Description>
+    <Copyright>https://github.com/Romulo-Meirelles/MercadoBitcoinAPI</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+</Project>
