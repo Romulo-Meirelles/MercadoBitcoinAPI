@@ -1,0 +1,13 @@
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\bin\Debug\netstandard2.0\MercadoBitcoin.API.deps.json
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\bin\Debug\netstandard2.0\MercadoBitcoin.API.dll
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\bin\Debug\netstandard2.0\MercadoBitcoin.API.pdb
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\bin\Debug\netstandard2.0\Microsoft.VisualBasic.Core.dll
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\bin\Debug\netstandard2.0\Microsoft.VisualBasic.Core.xml
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\obj\Debug\netstandard2.0\MercadoBitcoin.API.Standart.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\obj\Debug\netstandard2.0\MercadoBitcoin.API.Standart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\obj\Debug\netstandard2.0\MercadoBitcoin.API.Standart.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\obj\Debug\netstandard2.0\MercadoBitcoin.API.Standart.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\obj\Debug\netstandard2.0\MercadoBitcoin.API.Standart.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\obj\Debug\netstandard2.0\MercadoBitcoin.API.Standart.vbproj.CopyComplete
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\obj\Debug\netstandard2.0\MercadoBitcoin.API.dll
+C:\Users\Romulo Meirelles\source\repos\MercadoBitcoin.API\MercadoBitcoin.API.Standart\obj\Debug\netstandard2.0\MercadoBitcoin.API.pdb
